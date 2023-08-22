@@ -1,3 +1,7 @@
+<style>
+@import 'bootstrap/dist/css/bootstrap.css';
+</style>
+
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Hello World"/>
